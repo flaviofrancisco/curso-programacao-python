@@ -17,3 +17,6 @@ Relativos as aulas:
 * [01 - Preparar o ambiente de desenvolvimento](https://www.youtube.com/watch?v=CmA8ep6uBtc&t=1s)
 * [02 - Tipos primitivos](https://www.youtube.com/watch?v=Yl8DBM2cIII&t=4s) e
 * [03 - Controles de fluxo (Parte 1)](https://www.youtube.com/watch?v=QqlZObFKQ5U&t=609s)
+
+Referência:
+https://duvidas.dicio.com.br/intuito-ou-intuito/
