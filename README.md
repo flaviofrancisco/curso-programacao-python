@@ -19,4 +19,4 @@ Relativos as aulas:
 * [03 - Controles de fluxo (Parte 1)](https://www.youtube.com/watch?v=QqlZObFKQ5U&t=609s)
 
 Referência:
-https://duvidas.dicio.com.br/intuito-ou-intuito/
+https://dicasdeprogramacao.com.br/algoritmo-para-validar-cpf/
