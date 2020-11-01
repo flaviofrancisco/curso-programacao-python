@@ -18,5 +18,7 @@ Relativos as aulas:
 * [02 - Tipos primitivos](https://www.youtube.com/watch?v=Yl8DBM2cIII&t=4s) e
 * [03 - Controles de fluxo (Parte 1)](https://www.youtube.com/watch?v=QqlZObFKQ5U&t=609s)
 
+Esse código será refatorado em breve e otimizando usando as melhores práticas de programação.
+
 Referência:
 https://dicasdeprogramacao.com.br/algoritmo-para-validar-cpf/
