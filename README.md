@@ -20,5 +20,16 @@ Relativos as aulas:
 
 Esse código será refatorado em breve e otimizando usando as melhores práticas de programação.
 
+[Aula prática 02 - Validação de CPF]
+Agora nesse algoritmo iremos usar as funções; loopings (for e while) relativo as aulas:
+
+* [05 Curso de programação em Python - Dicas de como usar strings](https://www.youtube.com/watch?v=gk8BsUumz9o)
+* [06 Curso de programação em Python - Datas e tempo](https://www.youtube.com/watch?v=8ZvPXGof9ok)
+* [07 Curso de programação em Python - For Loop - Parte 1 de 2](https://www.youtube.com/watch?v=VaMA29WolKE)
+* [08 Curso de programação em Python For Else Parte 2 de 2](https://www.youtube.com/watch?v=KPomxaWrT7A)
+* [09 Curso de programação em Python - While Loop](https://www.youtube.com/watch?v=iS2_9stvONM)
+* [10 Curso de programação em Python - Funções](https://www.youtube.com/watch?v=J2yIB2LDJeI)
+
+
 Referência:
 https://dicasdeprogramacao.com.br/algoritmo-para-validar-cpf/
