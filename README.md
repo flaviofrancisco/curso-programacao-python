@@ -20,7 +20,7 @@ Relativos as aulas:
 
 Esse código será refatorado em breve e otimizando usando as melhores práticas de programação.
 
-[Aula prática 02 - Validação de CPF]
+[Aula prática 02 - Validação de CPF](https://github.com/flaviofrancisco/curso-programacao-python/blob/main/exercicios/01/valida_cpf_02.py)
 Agora nesse algoritmo iremos usar as funções; loopings (for e while) relativo as aulas:
 
 * [05 Curso de programação em Python - Dicas de como usar strings](https://www.youtube.com/watch?v=gk8BsUumz9o)
