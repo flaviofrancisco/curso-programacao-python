@@ -46,6 +46,9 @@ if primeiro_digito_verificador == 10:
 segunda_soma = num1 * 11 + num2 * 10 + num3 * 9 + num4 * 8 + num5 * 7 + num6 * 6 + num7 * 5 + num8 * 4 + num9 * 3 + primeiro_digito_verificador * 2
 segundo_digito_verificador = (segunda_soma * 10) % 11
 
+if segundo_digito_verificador == 10:
+    segundo_digito_verificador = 0
+
 # print(segunda_soma)
 # print(segundo_digito_verificador)
 
