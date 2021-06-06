@@ -22,7 +22,7 @@ Esse código será melhorado ao longo do curso até atingir a sua forma mais oti
 Essa versão está mais otimizada, mas ainda não está na sua versão final. Em breve irei postar o código final do Valida CPF.
 
 [Aula prática 03 - Consumir API da ViaCEP](https://github.com/flaviofrancisco/curso-programacao-python/blob/main/exercicios/02/consulta_cep.py)
-O objetivo desse vídeo é mostrar o uso de um método de classe e atributo de classe. Não necessáriamente estou seguindo as melhores práticas de desenvolvimento e irei explicar melhor sobre módulos em Python em outros vídeos.
+O objetivo desse vídeo é mostrar o uso de um método de classe e atributo de classe em uma classe onde iremos consumir os dados de uma API que nos permite encontrar um endereço por seu CEP em Python. Não necessáriamente estou seguindo as melhores práticas de desenvolvimento e irei explicar melhor sobre módulos em Python em outros vídeos.
 
 Referências:
 https://dicasdeprogramacao.com.br/algoritmo-para-validar-cpf/
