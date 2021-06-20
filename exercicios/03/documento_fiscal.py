@@ -1,7 +1,7 @@
 class DocumentoFiscal:
-    def __init__(self, numeros_dv1, numeros_dv2):
-        self.__NUM_DV1 = numeros_dv1
-        self.__NUM_DV2 = numeros_dv2
+    def __init__(self):
+        self._pesos_dv1 = []
+        self._pesos_dv2 = []
 
     def retorna_digitos(self, documento):
         return documento.replace('.', '').replace('/', '').replace('-', '')
@@ -10,7 +10,7 @@ class DocumentoFiscal:
         pass
 
     def recupera_soma_produtos(self, documento, digito=1):
-        pesos = self.__NUM_DV1 if digito == 1 else self.__NUM_DV2
+        pesos = self._pesos_dv1 if digito == 1 else self._pesos_dv2
         resultado = (sum(int(digito) * peso for digito,peso in zip(documento, pesos)))
         return resultado
 
