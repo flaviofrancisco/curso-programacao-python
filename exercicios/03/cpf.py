@@ -9,6 +9,6 @@ class Cpf(DocumentoFiscal):
         # [11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
 
     def calcula_digito_verificador(self, documento, digito=1):
-        documento = documento = self.retorna_digitos(documento)
+        documento = self.retorna_digitos(documento)
         resultado = (self.recupera_soma_produtos(documento, digito) * 10) % 11
         return 0 if resultado == 10 else resultado
