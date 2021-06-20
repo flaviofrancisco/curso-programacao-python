@@ -1,13 +1,21 @@
 class DocumentoFiscal:
-    def __init__(self):
-        self.__NUM_DV1 = []
-        self.__NUM_DV2 = []
+    def __init__(self, numeros_dv1, numeros_dv2):
+        self.__NUM_DV1 = numeros_dv1
+        self.__NUM_DV2 = numeros_dv2
+
+    def retorna_digitos(self, documento):
+        return documento.replace('.', '').replace('/', '').replace('-', '')
 
     def calcula_digito_verificador(self, documento, digito=1):
         pass
 
+    def recupera_soma_produtos(self, documento, digito=1):
+        pesos = self.__NUM_DV1 if digito == 1 else self.__NUM_DV2
+        resultado = (sum(int(digito) * peso for digito,peso in zip(documento, pesos)))
+        return resultado
+
     def valido(self, documento):
-        documento = documento.replace('.', '').replace('/', '').replace('-', '')
+        documento = self.retorna_digitos(documento)
 
         if (not documento.isnumeric()):
             return False
