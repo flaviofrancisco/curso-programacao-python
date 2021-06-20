@@ -17,7 +17,7 @@ Esse algoritmo é destinado para alunos iniciantes em programação e tem como o
 - Operadores lógicos e
 - Operadores de comparação em cadeia.
 
-Esse código será melhorado ao longo do curso até atingir a sua forma mais otimizada de acordo com o a evolução de conhecimentos adquiridos pelos alunos ao longo do curso. Portanto NÃO USE ESSE CÓDIGO EM PRODUÇÃO O COMO EXEMPLO PARA ENTREVISTAS!
+Esse código será melhorado ao longo do curso até atingir a sua forma mais otimizada de acordo com o a evolução de conhecimentos adquiridos pelos alunos ao longo do curso. Portanto **NÃO USE ESSE CÓDIGO EM PRODUÇÃO O COMO EXEMPLO PARA ENTREVISTAS!**
 
 [Aula prática 02 - Validação de CPF](https://github.com/flaviofrancisco/curso-programacao-python/blob/main/exercicios/01/valida_cpf_02.py)
 Essa versão está mais otimizada, mas ainda não está na sua versão final. Em breve irei postar o código final do Valida CPF. Este código está menos pior que a versão 1.
