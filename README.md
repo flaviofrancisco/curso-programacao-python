@@ -28,6 +28,9 @@ O objetivo desse vídeo é mostrar o uso de um método de classe e atributo de c
 [Aula prática 04 - Validação de CPF e CNPJ usando herança entre classes](https://github.com/flaviofrancisco/curso-programacao-python/tree/main/exercicios/03)
 Este código é a versão mais próxima do mundo real para um projeto, mas ainda não está completo. Irei completar esse código quando falar de Módulos e Packages em Python.
 
+[Aula prática 05 - Módulo para validar CPF](https://github.com/flaviofrancisco/curso-programacao-python/tree/main/exercicios/04)
+Se você precisa só de um validador de CPF aqui está um simples exemplo de como validar o documento em Python.
+
 O vídeo explicando como esse código foi implementado você poderá encontrar [aqui](https://youtu.be/OMjRxfB33sw).
 
 Referências:
