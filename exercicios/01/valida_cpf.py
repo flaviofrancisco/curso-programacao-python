@@ -3,7 +3,9 @@
 # Código para iniciantes que conhecem somente: Tipos primitivos e operadores lógicos e condicionais.
 # Esse código ser refatorado conforme a evolução do curso: Curso de programação em Python no canal:
 # https://www.youtube.com/channel/UC5doIjbbREmSZ9TcUx1gxfw?view_as=subscriber
-# portanto não use esse código em produção.
+# portanto NÃO USE ESSE CÓDIGO EM PRODUÇÃO !!!!.
+# Esse código é um exemplo simples do uso de listas e condições, mas não está na versão mais apropriada
+# para o objetivo de simplicidade que da linguagem Python.
 
 print('Informe o CPF')
 cpf = input()
