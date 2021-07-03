@@ -4,6 +4,7 @@ from abc import ABC, abstractclassmethod
 
 class CalculadoraBase(ABC):
 
+    @abstractclassmethod
     def factory_method(self):
         pass
 
