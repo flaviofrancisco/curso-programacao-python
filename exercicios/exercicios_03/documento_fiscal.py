@@ -1,9 +1,18 @@
 class DocumentoFiscal:
+    """ Classe base para validação de CPF e CNPJ. """
     def __init__(self):
         self._pesos_dv1 = []
         self._pesos_dv2 = []
 
     def retorna_digitos(self, documento):
+        """ Remove os caracteres não numéricos de um documento.
+
+        Parameters:
+        documento (str): Documento com caracteres não numéricos.
+
+        Returns:
+        str: Somente os digitos do documento.
+        """
         return documento.replace('.', '').replace('/', '').replace('-', '')
 
     def calcula_digito_verificador(self, documento, digito=1):
