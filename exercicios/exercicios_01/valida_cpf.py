@@ -1,3 +1,7 @@
+
+# THIS CODE IS ONLY AN INTRODUCTION, BUT IT DOESN'T FOLLOW ANY PYTHONIC WAY TO DO A PROPER CODE.
+# DURING THIS COURSE THE STUDENDS WILL LEARN HOW TO IMPROVE THEIR CODING SKILLS AND THIS CODE WILL BE REFACTORED.
+
 # Versão somente para fins educacionais e não significa que as melhores práticas
 # de programação estejam praticadas no algoritmo abaixo.
 # Código para iniciantes que conhecem somente: Tipos primitivos e operadores lógicos e condicionais.
